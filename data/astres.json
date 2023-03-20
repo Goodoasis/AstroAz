@@ -1,0 +1,188 @@
+{
+    "--": {
+        "type": "",
+        "size": "",
+        "dist_min": "",
+        "dist_max": ""
+    },
+    "sun": {
+        "type": "star",
+        "size": 1392700,
+        "dist_min": 147091188,
+        "dist_max": 149622739
+    },
+    "mercury": {
+        "type": "planet",
+        "size": 4879.4,
+        "dist_min": 82134610,
+        "dist_max": 198933019
+    },
+    "venus": {
+        "type": "planet",
+        "size": 6051.8,
+        "dist_min": 42500000,
+        "dist_max": 256000000
+    },
+    "moon": {
+        "type": "moon",
+        "size": 3474.8,
+        "dist_min": 356410,
+        "dist_max": 405500
+    },
+    "mars": {
+        "type": "planet",
+        "size": 6779,
+        "dist_min": 55884640,
+        "dist_max": 266741949
+    },
+    "phobos": {
+        "type": "moon",
+        "size": 22.533,
+        "dist_min": 55884640,
+        "dist_max": 266741949
+    },
+    "deimos": {
+        "type": "moon",
+        "size": 12.4,
+        "dist_min": 55884640,
+        "dist_max": 266741949
+    },
+    "jupiter": {
+        "type": "planet",
+        "size": 139820,
+        "dist_min": 591295396,
+        "dist_max": 880000756
+    },
+    "ganymede": {
+        "type": "moon",
+        "size": 5268.2,
+        "dist_min": 591295396,
+        "dist_max": 880000756
+    },
+    "callisto": {
+        "type": "moon",
+        "size": 4820.6,
+        "dist_min": 591295396,
+        "dist_max": 880000756
+    },
+    "io": {
+        "type": "moon",
+        "size": 3643.2,
+        "dist_min": 591295396,
+        "dist_max": 880000756
+    },
+    "europa": {
+        "type": "moon",
+        "size": 3121.6,
+        "dist_min": 591295396,
+        "dist_max": 880000756
+    },
+    "saturn": {
+        "type": "planet",
+        "size": 116460,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "mimas": {
+        "type": "moon",
+        "size": 396.4,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "enceladus": {
+        "type": "moon",
+        "size": 504.2,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "tethys": {
+        "type": "moon",
+        "size": 1062,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "dione": {
+        "type": "moon",
+        "size": 1122.8,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "rhea": {
+        "type": "moon",
+        "size": 1527.6,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "titan": {
+        "type": "moon",
+        "size": 5149.5,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "lapetus": {
+        "type": "moon",
+        "size": 1469,
+        "dist_min": 1201481743,
+        "dist_max": 1567212000
+    },
+    "uranus": {
+        "type": "planet",
+        "size": 50724,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "titania": {
+        "type": "moon",
+        "size": 1576.8,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "oberon": {
+        "type": "moon",
+        "size": 1522.8,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "umbriel": {
+        "type": "moon",
+        "size": 1169.4,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "ariel": {
+        "type": "moon",
+        "size": 1157.8,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "miranda": {
+        "type": "moon",
+        "size": 471.6,
+        "dist_min": 2586530892,
+        "dist_max": 3079538756
+    },
+    "neptune": {
+        "type": "planet",
+        "size": 49244,
+        "dist_min": 4310539971,
+        "dist_max": 4614869626
+    },
+    "triton": {
+        "type": "moon",
+        "size": 2705.2,
+        "dist_min": 4310539971,
+        "dist_max": 4614869626
+    },
+    "proteus": {
+        "type": "moon",
+        "size": 420,
+        "dist_min": 4310539971,
+        "dist_max": 4614869626
+    },
+    "pluto": {
+        "type": "protoplanet",
+        "size": 2376.6,
+        "dist_min": 4291508288,
+        "dist_max": 5193511084
+    }
+}

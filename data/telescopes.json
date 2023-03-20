@@ -1,0 +1,191 @@
+{
+    "--":{
+        "aperture": "",
+        "focal": ""
+    },
+    "lunette SW 70/700":{
+        "aperture": 70,
+        "focal": 700
+    },
+    "lunette SW 70/900":{
+        "aperture": 70,
+        "focal": 900
+    },
+    "lunette SW 90/900":{
+        "aperture": 90,
+        "focal": 900
+    },
+    "lunette SW 120/600":{
+        "aperture": 120,
+        "focal": 600
+    },
+    "lunette SW 120/1000":{
+        "aperture": 120,
+        "focal": 1000
+    },
+    "lunette SW 150/750":{
+        "aperture": 150,
+        "focal": 750
+    },
+    "lunette SW 150/1200":{
+        "aperture": 150,
+        "focal": 1200
+    },
+    "lunette SW 72ED":{
+        "aperture": 72,
+        "focal": 420
+    },
+    "lunette SW 80ED":{
+        "aperture": 80,
+        "focal": 600
+    },
+    "lunette SW 100ED":{
+        "aperture": 100,
+        "focal": 900
+    },
+    "lunette SW 120ED":{
+        "aperture": 120,
+        "focal": 900
+    },
+    "lunette SW 150ED":{
+        "aperture": 150,
+        "focal": 1200
+    },
+    "Maksutov SW 90":{
+        "aperture": 90,
+        "focal": 1250
+    },
+    "Maksutov SW 127":{
+        "aperture": 127,
+        "focal": 1500
+    },
+    "Maksutov SW 150":{
+        "aperture": 150,
+        "focal": 1800
+    },
+    "Maksutov SW 180":{
+        "aperture": 180,
+        "focal": 2700
+    },
+    "Maksutov Celestron 178":{
+        "aperture": 178,
+        "focal": 2700
+    },
+    "Maksutov Bresser 127":{
+        "aperture": 127,
+        "focal": 1900
+    },
+    "Newton SW 114/900":{
+        "aperture": 114,
+        "focal": 900
+    },
+    "Newton SW 130/650":{
+        "aperture": 130,
+        "focal": 650
+    },
+    "Newton SW 130/900":{
+        "aperture": 130,
+        "focal": 900
+    },
+    "Newton SW 150/750":{
+        "aperture": 150,
+        "focal": 750
+    },
+    "Newton OMEGON 200/640":{
+        "aperture": 200,
+        "focal": 640
+    },
+    "Newton SW 200/800":{
+        "aperture": 200,
+        "focal": 800
+    },
+    "Newton SW 200/1000":{
+        "aperture": 200,
+        "focal": 1000
+    },
+    "Newton SW 200/1200":{
+        "aperture": 200,
+        "focal": 1200
+    },
+    "Newton SW 254/1000":{
+        "aperture": 254,
+        "focal": 1000
+    },
+    "Newton SW 254/1200":{
+        "aperture": 254,
+        "focal": 1200
+    },
+    "Newton SW 300/1200":{
+        "aperture": 300,
+        "focal": 1200
+    },
+    "Newton SW 300/1500":{
+        "aperture": 300,
+        "focal": 1500
+    },
+    "Newton 350/1600":{
+        "aperture": 350,
+        "focal": 1600
+    },
+    "Newton 400/1800":{
+        "aperture": 400,
+        "focal": 1800
+    },
+    "Newton 458/1900":{
+        "aperture": 458,
+        "focal": 1900
+    },
+    "Newton 508/2000":{
+        "aperture": 508,
+        "focal": 2000
+    },
+    "SC C500XLT":{
+        "aperture": 127,
+        "focal": 1250
+    },
+    "SC C6XLT":{
+        "aperture": 150,
+        "focal": 1500
+    },
+    "SC C8XLT":{
+        "aperture": 203,
+        "focal": 2000
+    },
+    "SC C9.25 Edge HD":{
+        "aperture": 235,
+        "focal": 2350
+    },
+    "SC C11 Edge HD":{
+        "aperture": 280,
+        "focal": 2800
+    },
+    "SC C14 Edge HD":{
+        "aperture": 356,
+        "focal": 3910
+    },
+    "RC 154/1370TS PRO":{
+        "aperture": 154,
+        "focal": 1370
+    },
+    "RC 200/1600 TS PRO":{
+        "aperture": 203,
+        "focal": 1640
+    },
+    "RC 254/2000 KEPLER":{
+        "aperture": 254,
+        "focal": 2000
+    },
+    "RC 304/2432 KEPLER":{
+        "aperture": 304,
+        "focal": 2432
+    },
+    "RC 355/2845 TS PRO":{
+        "aperture": 355,
+        "focal": 2845
+    },
+    "RC 406/3248 TS PRO":{
+        "aperture": 406,
+        "focal": 3248
+    }
+    
+}

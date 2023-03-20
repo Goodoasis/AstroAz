@@ -1,0 +1,602 @@
+{
+    "--":{
+        "pixel_size": "",
+        "sensor_lenght": "",
+        "sensor_height": "",
+        "color": ""
+    }, 
+    "ZWO ASI120MC-S":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1280,
+        "sensor_height": 960,
+        "color": "color"
+    },
+    "ZWO ASI120MM":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1280,
+        "sensor_height": 960,
+        "color": "monochrome"
+    },  
+    "ZWO ASI120MM-Mini":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1280,
+        "sensor_height": 960,
+        "color": "monochrome"
+    },  
+    "ZWO ASI1600MM":{
+        "pixel_size": 3.8,
+        "sensor_lenght": 4656,
+        "sensor_height": 3520,
+        "color": "monochrome"
+    },  
+    "ZWO ASI174MM-Mini":{
+        "pixel_size": 5.86,
+        "sensor_lenght": 1936,
+        "sensor_height": 1216,
+        "color": "monochrome"
+    },  
+    "ZWO ASI174MM":{
+        "pixel_size": 5.86,
+        "sensor_lenght": 1936,
+        "sensor_height": 1216,
+        "color": "monochrome"
+    },  
+    "ZWO ASI178MM":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2080,
+        "color": "monochrome"
+    },  
+    "ZWO ASI178MC":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2080,
+        "color": "color"
+    },  
+    "ZWO ASI183MC":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 5496,
+        "sensor_height": 3672,
+        "color": "color"
+    },  
+    "ZWO ASI183MM":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 5496,
+        "sensor_height": 3672,
+        "color": "monochrome"
+    },  
+    "ZWO ASI224MC":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1304,
+        "sensor_height": 976,
+        "color": "color"
+    },  
+    "ZWO ASI290MM-Mini":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1936,
+        "sensor_height": 1096,
+        "color": "monochrome"
+    },  
+    "ZWO ASI290MM":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1936,
+        "sensor_height": 1096,
+        "color": "monochrome"
+    },  
+    "ZWO ASI294MC":{
+        "pixel_size": 4.63,
+        "sensor_lenght": 4144,
+        "sensor_height": 2822,
+        "color": "color"
+    },  
+    "ZWO ASI294MM":{
+        "pixel_size": 4.63,
+        "sensor_lenght": 4144,
+        "sensor_height": 2822,
+        "color": "monochrome"
+    },  
+    "ZWO ASI385MC":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1936,
+        "sensor_height": 1096,
+        "color": "color"
+    },  
+    "ZWO ASI432MM":{
+        "pixel_size": 9,
+        "sensor_lenght": 1608,
+        "sensor_height": 1104,
+        "color": "monochrome"
+    },  
+    "ZWO ASI462MC": {
+        "pixel_size": 2.9,
+        "sensor_lenght": 1936,
+        "sensor_height": 1096,
+        "color": "color"
+    },  
+    "ZWO ASI482MC":{
+        "pixel_size": 5.8,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "ZWO ASI485MC": {
+        "pixel_size": 2.9,
+        "sensor_lenght": 3840,
+        "sensor_height": 2160,
+        "color": "color"
+    },  
+    "ZWO ASI533MC-PRO":{
+        "pixel_size": 3.76,
+        "sensor_lenght": 3008,
+        "sensor_height": 3008,
+        "color": "color"
+    },  
+    "ZWO ASI585MC":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 3840,
+        "sensor_height": 2160,
+        "color": "color"
+    },  
+    "ZWO ASI662MC":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "ZWO ASI678MC":{
+        "pixel_size": 2,
+        "sensor_lenght": 3840,
+        "sensor_height": 2160,
+        "color": "color"
+    },  
+    "ZWO ASI185MC": {
+        "pixel_size": 3.75,
+        "sensor_lenght": 1944,
+        "sensor_height": 1224,
+        "color": "color"
+    },  
+    "Pl-O Mars-C":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1944,
+        "sensor_height": 1096,
+        "color": "color"
+    },  
+    "Pl-O Mars-M":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1944,
+        "sensor_height": 1096,
+        "color": "monochrome"
+    },  
+    "Pl-O Mars-C II":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1936,
+        "sensor_height": 1100,
+        "color": "color"
+    },  
+    "Pl-O Neptune-C":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2078,
+        "color": "color"
+    },  
+    "Pl-O Neptune-M":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2078,
+        "color": "monochrome"
+    },  
+    "Pl-O Neptune-C II":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 2712,
+        "sensor_height": 1538,
+        "color": "color"
+    },  
+    "Pl-O Uranus-C":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 3856,
+        "sensor_height": 2180,
+        "color": "color"
+    },  
+    "Pl-O Saturn-C SQR":{
+        "pixel_size": 3.76,
+        "sensor_lenght": 3008,
+        "sensor_height": 3008,
+        "color": "color"
+    },  
+    "Pl-O Saturn-M SQR":{
+        "pixel_size": 3.76,
+        "sensor_lenght": 3008,
+        "sensor_height": 3008,
+        "color": "color"
+    },  
+    "Pl-O Apollo-C":{
+        "pixel_size": 5.86,
+        "sensor_lenght": 1936,
+        "sensor_height": 1216,
+        "color": "color"
+    },  
+    "Pl-O Apollo-M":{
+        "pixel_size": 5.86,
+        "sensor_lenght": 1936,
+        "sensor_height": 1216,
+        "color": "color"
+    },  
+    "Pl-O Apollo-M MINI":{
+        "pixel_size": 4.5,
+        "sensor_lenght": 1944,
+        "sensor_height": 1472,
+        "color": "monochrome"
+    },  
+    "Pl-O Apollo-M MAX":{
+        "pixel_size": 9,
+        "sensor_lenght": 1608,
+        "sensor_height": 1104,
+        "color": "color"
+    },  
+    "Pl-O Ceres-C":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1304,
+        "sensor_height": 976,
+        "color": "color"
+    },  
+    "Pl-O Ceres-M":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1284,
+        "sensor_height": 964,
+        "color": "monochrome"
+    },  
+    "Pl-O Sedna-M":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2078,
+        "color": "monochrome"
+    },  
+    "Pl-O Xena-M":{
+        "pixel_size": 5.86,
+        "sensor_lenght": 1936,
+        "sensor_height": 1216,
+        "color": "monochrome"
+    },  
+    "QHY-5-II-M":{
+        "pixel_size": 5.2,
+        "sensor_lenght": 1280,
+        "sensor_height": 1224,
+        "color": "monochrome"
+    },  
+    "QHY-5-III-174M":{
+        "pixel_size": 2.4,
+        "sensor_lenght": 3096,
+        "sensor_height": 2080,
+        "color": "monochrome"
+    },  
+    "QHY-5-III-462C":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "QHY-21":{
+        "pixel_size": 4.54,
+        "sensor_lenght": 1940,
+        "sensor_height": 1460,
+        "color": "monochrome"
+    },  
+    "QHY-22":{
+        "pixel_size": 4.54,
+        "sensor_lenght": 2758,
+        "sensor_height": 2208,
+        "color": "monochrome"
+    },  
+    "QHY-23":{
+        "pixel_size": 3.69,
+        "sensor_lenght": 3388,
+        "sensor_height": 2712,
+        "color": "monochrome"
+    },  
+    "QHY-247C":{
+        "pixel_size": 3.91,
+        "sensor_lenght": 6024,
+        "sensor_height": 4024,
+        "color": "color"
+    },  
+    "QHY-268C":{
+        "pixel_size": 3.76,
+        "sensor_lenght": 6248,
+        "sensor_height": 4276,
+        "color": "color"
+    },  
+    "QHY-268M":{
+        "pixel_size": 3.76,
+        "sensor_lenght": 6280,
+        "sensor_height": 4210,
+        "color": "monochrome"
+    },  
+    "QHY-5-III-224C":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1280,
+        "sensor_height": 960,
+        "color": "color"
+    },  
+    "QHY-5-III-290M":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "monochrome"
+    },  
+    "QHY-5-III-290C":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "Svbony SV105":{
+        "pixel_size": 3,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "Svbony SV205":{
+        "pixel_size": 1.4,
+        "sensor_lenght": 3264,
+        "sensor_height": 2448,
+        "color": "color"
+    },  
+    "SVbony SV305":{
+        "pixel_size": 2.9,
+        "sensor_lenght": 1920,
+        "sensor_height": 1080,
+        "color": "color"
+    },  
+    "ATIK GP-M":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1296,
+        "sensor_height": 964,
+        "color": "monochrome"
+    },  
+    "ATIK GP-C":{
+        "pixel_size": 3.75,
+        "sensor_lenght": 1296,
+        "sensor_height": 964,
+        "color": "color"
+    },
+    "ATIK HORIZON":{
+        "pixel_size": 3.8,
+        "sensor_lenght": 4644,
+        "sensor_height": 3506,
+        "color": "monochrome"
+    },
+    "ATIK INFINITY":{
+        "pixel_size": 6.45,
+        "sensor_lenght": 1392,
+        "sensor_height": 1040,
+        "color": "color"
+    },
+    "ATIK TITAN-C":{
+        "pixel_size": 7.4,
+        "sensor_lenght": 659,
+        "sensor_height": 494,
+        "color": "color"
+    },
+    "ATIK TITAN-M":{
+        "pixel_size": 7.4,
+        "sensor_lenght": 659,
+        "sensor_height": 494,
+        "color": "monochrome"
+    },
+    "CELESTRON NIGHTSCAPE":{
+        "pixel_size": 4.75,
+        "sensor_lenght": 3760,
+        "sensor_height": 2840,
+        "color": "color"
+    },
+    "CELESTRON NEXTIMAGE 10C":{
+        "pixel_size": 1.67,
+        "sensor_lenght": 3856,
+        "sensor_height": 2764,
+        "color": "color"
+    },
+    "CELESTRON NEXTIMAGE 5C":{
+        "pixel_size": 2.2,
+        "sensor_lenght": 2592,
+        "sensor_height": 1944,
+        "color": "color"
+    },
+    "CANON EOS 1000D":{
+        "pixel_size": 5.71,
+        "sensor_lenght": 3888,
+        "sensor_height": 2591,
+        "color": "color"
+    },
+    "CANON EOS 100D":{
+        "pixel_size": 4.3,
+        "sensor_lenght": 5196,
+        "sensor_height": 3464,
+        "color": "color"
+    },
+    "CANON EOS 1100D":{
+        "pixel_size": 5.18,
+        "sensor_lenght": 4272,
+        "sensor_height": 2848,
+        "color": "color"
+    },
+    "CANON EOS 1200D":{
+        "pixel_size": 4.3,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 20D":{
+        "pixel_size": 6.4,
+        "sensor_lenght": 3520,
+        "sensor_height": 2344,
+        "color": "color"
+    },
+    "CANON EOS 30D":{
+        "pixel_size": 6.42,
+        "sensor_lenght": 3504,
+        "sensor_height": 2336,
+        "color": "color"
+    },
+    "CANON EOS 40D":{
+        "pixel_size": 5.7,
+        "sensor_lenght": 3888,
+        "sensor_height": 2592,
+        "color": "color"
+    },
+    "CANON EOS 450D":{
+        "pixel_size": 5.1,
+        "sensor_lenght": 4272,
+        "sensor_height": 2848,
+        "color": "color"
+    },
+    "CANON EOS 500D":{
+        "pixel_size": 4.68,
+        "sensor_lenght": 4752,
+        "sensor_height": 3168,
+        "color": "color"
+    },
+    "CANON EOS 50D":{
+        "pixel_size": 4.7,
+        "sensor_lenght": 4752,
+        "sensor_height": 3168,
+        "color": "color"
+    },
+    "CANON EOS 550D":{
+        "pixel_size": 4.3,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 600D":{
+        "pixel_size": 4.29,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 60DA":{
+        "pixel_size": 4.3,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 6D":{
+        "pixel_size": 6.54,
+        "sensor_lenght": 5472,
+        "sensor_height": 3648,
+        "color": "color"
+    },
+    "CANON EOS 700D":{
+        "pixel_size": 4.3,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 70D":{
+        "pixel_size": 4.1,
+        "sensor_lenght": 5472,
+        "sensor_height": 3648,
+        "color": "color"
+    },
+    "CANON EOS 750D":{
+        "pixel_size": 3.70,
+        "sensor_lenght": 6024,
+        "sensor_height": 4022,
+        "color": "color"
+    },
+    "CANON EOS 7D MarkII":{
+        "pixel_size": 4.1,
+        "sensor_lenght": 5472,
+        "sensor_height": 3648,
+        "color": "color"
+    },
+    "CANON EOS 7D":{
+        "pixel_size": 4.7,
+        "sensor_lenght": 5184,
+        "sensor_height": 3456,
+        "color": "color"
+    },
+    "CANON EOS 80D":{
+        "pixel_size": 3.7,
+        "sensor_lenght": 6000,
+        "sensor_height": 4000,
+        "color": "color"
+    },
+    "SONY A7S":{
+        "pixel_size": 8.4,
+        "sensor_lenght": 4240,
+        "sensor_height": 2832,
+        "color": "color"
+    },
+    "SONY A7 III":{
+        "pixel_size": 5.91,
+        "sensor_lenght": 6000,
+        "sensor_height": 4000,
+        "color": "color"
+    },
+    "SONY A7R III":{
+        "pixel_size": 4.5,
+        "sensor_lenght": 7952,
+        "sensor_height": 5304,
+        "color": "color"
+    },
+    "NIKON D300S":{
+        "pixel_size": 5.5,
+        "sensor_lenght": 4288,
+        "sensor_height": 2848,
+        "color": "color"
+    },
+    "NIKON D3300":{
+        "pixel_size": 3.9,
+        "sensor_lenght": 6000,
+        "sensor_height": 4000,
+        "color": "color"
+    },
+    "NIKON D500":{
+        "pixel_size": 4.2,
+        "sensor_lenght": 5568,
+        "sensor_height": 3712,
+        "color": "color"
+    },
+    "NIKON D5100":{
+        "pixel_size": 4.78,
+        "sensor_lenght": 4928,
+        "sensor_height": 3264,
+        "color": "color"
+    },
+    "NIKON D5300":{
+        "pixel_size": 3.92,
+        "sensor_lenght": 6000,
+        "sensor_height": 4000,
+        "color": "color"
+    },
+    "NIKON D5500":{
+        "pixel_size": 3.89,
+        "sensor_lenght": 6000,
+        "sensor_height": 4000,
+        "color": "color"
+    },
+    "NIKON D7000":{
+        "pixel_size": 4.7,
+        "sensor_lenght": 4991,
+        "sensor_height": 3280,
+        "color": "color"
+    },
+    "NIKON D7500":{
+        "pixel_size": 4.2,
+        "sensor_lenght": 5568,
+        "sensor_height": 3712,
+        "color": "color"
+    },
+    "NIKON D800":{
+        "pixel_size": 4.88,
+        "sensor_lenght": 7360,
+        "sensor_height": 4912,
+        "color": "color"
+    },
+    "NIKON D810A":{
+        "pixel_size": 4.88,
+        "sensor_lenght": 7360,
+        "sensor_height": 4912,
+        "color": "color"
+    }
+}
