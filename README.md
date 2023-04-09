@@ -6,7 +6,6 @@ Bienvenue dans l'univers d'**AstroAz**, un logiciel d'astronomie en développeme
 
 Que vous soyez un astronome débutant ou expérimenté, **AstroAz** vous aidera à explorer le ciel nocturne de manière plus approfondie.
 
-#
 ## Installation
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt= “” width=35>
 
@@ -22,7 +21,6 @@ Une fois le téléchargement de l'archive terminé, décompressée la, et lancer
 
 Téléchargez la version tar.gz, décompressez l'archive et lancez main.py -->
 
-#
 ## Utilisation
  <!-- Donnez des exemples sur la façon d'utiliser votre projet. Incluez des captures d'écran si possible pour aider les utilisateurs à mieux comprendre le fonctionnement de votre projet. -->
 
@@ -33,7 +31,6 @@ Le logiciel propose un pdf d'aide dans la rubrique "A propos". Le document est a
         ├── data
             ├── aide.pdf
 ```
-#
 ## Contribuer 
 Tout retours d'expérience, rapport de bug ou idée pour faire evoluer le projet nous sera très utile pour la suite.
 
@@ -41,17 +38,16 @@ Tout retours d'expérience, rapport de bug ou idée pour faire evoluer le projet
 - Zoom sur les photos importées pour améliorer la précision du pointage.
 - Clique simple sur la photo de la lune pour renseigner longitude latitude. -->
 
-#
 ## Licence
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
 La licence MIT est une licence open source permissive qui permet aux utilisateurs de copier, modifier et distribuer le code sans restriction, à condition que la notice de copyright et la licence soient incluses dans toutes les copies et distributions. En d'autres termes, la licence MIT offre une grande liberté aux utilisateurs tout en protégeant les droits d'auteur du propriétaire initial.
 
 En utilisant ce projet, vous acceptez les termes et conditions de la licence MIT. Si vous ne voulez pas accepter ces termes, vous ne pouvez pas utiliser ce projet. Si vous avez des questions sur la licence ou si vous souhaitez utiliser ce projet sous une licence différente, veuillez contacter l'auteur du projet.
-#
+
 ## Auteurs
 Maxime Goyard et Thibault D'Eurveilher.
-#
+
 ## Contact
 astroaz.contact@gmail.com
 \
@@ -62,6 +58,5 @@ Maxime sur discord :      **Maximeg#2889**
 <!-- ## Historique des versions
 Ajoutez une section qui répertorie les modifications apportées à chaque version de votre projet. Cela aidera les utilisateurs à comprendre les mises à jour et les améliorations apportées à votre projet. -->
 
-#
 ## Références
 Le youtubeur [Astr'Au Dobson](https://www.youtube.com/@AstrAuDobson) a fait une [video de présentation](https://www.youtube.com/watch?v=i0IdQIHIaxw).
