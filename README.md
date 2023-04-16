@@ -1,4 +1,7 @@
-# AstroAz
+<img src="data/astro_icon.ico" alt= “” width=180>
+
+# AstroAz 
+
 ## Description
 Bienvenue dans l'univers d'**AstroAz**, un logiciel d'astronomie en développement conçu spécialement pour les amateurs d'astronomie. Ce logiciel gratuit offre une gamme de fonctionnalités pour mesurer des objets, des cratères et des distances planétaires, ainsi que pour estimer la taille d'une montagne lunaire.
 
@@ -7,24 +10,38 @@ Bienvenue dans l'univers d'**AstroAz**, un logiciel d'astronomie en développeme
 Que vous soyez un astronome débutant ou expérimenté, **AstroAz** vous aidera à explorer le ciel nocturne de manière plus approfondie.
 
 ## Installation
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt= “” width=35>
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt= “” width=34> Windows
 
-La plus simple façon est de télécharger la derniere [release](https://github.com/Goodoasis/AstroAz/releases/latest).
-Une fois le téléchargement de l'archive terminé, décompressée la, et lancer **AstroAz.exe**.
+La plus simple façon est de télécharger la dernière [release](https://github.com/Goodoasis/AstroAz/releases/latest).
+Une fois le téléchargement de l'archive terminé, décompressée-la, et lancer **AstroAz.exe**.
 ```
 ├── AstroAz 1.0.zip
     ├── AstroAz
         ├── AstroAz.exe
 ```
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt= “” width=35> Python
+Le fichier `requirements.txt` est disponible en racine du projet pour créer votre environnement virtuel.
+
+\
+⚠️ La librairie tkPDFViewer n'est pas à jour et renvoie une erreur. ⚠️
+
+Vous devez modifier ce fichier:
+> `venv\Lib\site-packages\tkPDFViewer\tkPDFViewer.py`
+
+Remplacer les lignes 46, 47, 48 du fichier par ceci:
+```python
+                pix = page.get_pixmap()
+                pix1 = fitz.Pixmap(pix,0) if pix.alpha else pix
+                img = pix1.tobytes("ppm")
+```
 
 <!-- ### <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt= “” width=35>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt= “” width=35>
-
 Téléchargez la version tar.gz, décompressez l'archive et lancez main.py -->
 
 ## Utilisation
  <!-- Donnez des exemples sur la façon d'utiliser votre projet. Incluez des captures d'écran si possible pour aider les utilisateurs à mieux comprendre le fonctionnement de votre projet. -->
 
-Le logiciel propose un pdf d'aide dans la rubrique "A propos". Le document est aussi disponible ici:
+Le logiciel propose un pdf d'aide dans la rubrique "A propos". Le document est aussi disponible dans le projet:
 ```
 ├── AstroAz 1.0.zip
     ├── AstroAz
@@ -50,13 +67,13 @@ Maxime Goyard et Thibault D'Eurveilher.
 
 ## Contact
 astroaz.contact@gmail.com
-\
-Thibault sur discord:   **GoodOasis#5536**
-\
-Maxime sur discord :      **Maximeg#2889**
+
+<img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt= “” width=15> Thibault: **GoodOasis#5536**
+
+<img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt= “” width=15> Maxime: **Maximeg#2889**
 
 <!-- ## Historique des versions
 Ajoutez une section qui répertorie les modifications apportées à chaque version de votre projet. Cela aidera les utilisateurs à comprendre les mises à jour et les améliorations apportées à votre projet. -->
 
 ## Références
-Le youtubeur [Astr'Au Dobson](https://www.youtube.com/@AstrAuDobson) a fait une [video de présentation](https://www.youtube.com/watch?v=i0IdQIHIaxw).
+Le youtubeur [Astr'Au Dobson](https://www.youtube.com/@AstrAuDobson) a fait une [vidéo de présentation](https://www.youtube.com/watch?v=i0IdQIHIaxw).
